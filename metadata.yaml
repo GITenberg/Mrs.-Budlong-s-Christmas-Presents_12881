@@ -1,0 +1,26 @@
+_repo: Mrs.-Budlong-s-Christmas-Presents_12881
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hughes, Rupert
+    birthdate: 1872
+    deathdate: 1956
+    gutenberg_agent_id: '2334'
+    url: http://www.gutenberg.org/2009/agents/2334
+    wikipedia: http://en.wikipedia.org/wiki/Rupert_Hughes
+description: ''
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '2004-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12881'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories'
+- !lcc 'PS'
+- GITenberg
+title: Mrs. Budlong's Christmas Presents
+url: http://www.gutenberg.org/ebooks/12881
